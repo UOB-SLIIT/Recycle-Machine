@@ -10,7 +10,7 @@ public class Bag extends DepositItem {
 	 * 
 	 */
 	public Bag() { 
-		value = 10; 
+		value = 20; 
 		name = "Bag";
 	}
 }
